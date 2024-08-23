@@ -1,0 +1,20 @@
+.slider img{
+    height: 350px;
+    width: 100%;
+    position: relative;
+}
+
+/* #btt1{
+    height: 45px;
+    width: 120px;
+    position: relative;
+    bottom: 300px;
+}
+#btt2{
+    height: 45px;
+    width: 120px;
+    position: relative;
+    bottom: 300px;
+    float: right;
+
+} */
